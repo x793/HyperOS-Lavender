@@ -9,4 +9,5 @@ I added Google messages.
 Added Kashi SystemUi Plugin mod.
 Pre-rooted ROM.
 Kernel changed S0nix.
+All trashes Removed..👻
 Smooth...
